@@ -1,0 +1,13 @@
+Enter the directory name:maths
+Enter the number of files:2
+Enter file name to be created:sets
+Do you want to enter another file(yes - 1 or no - 0):1
+Enter file name to be created:geometry
+Do you want to enter another file(yes - 1 or no - 0):1
+Enter file name to be created:derivation
+Do you want to enter another file(yes - 1 or no - 0):0
+Directory name is:maths
+Files names are:
+sets
+geometry
+derivation
