@@ -1,0 +1,34 @@
+Enter the number of free blocks
+3
+Enter the size of free blocks
+2
+1
+6
+Enter the number of processes
+4
+Enter the size of processes
+2
+1
+6
+4
+size of free block 1: 2
+size of free block 2: 1
+size of free block 3: 6
+
+
+size of process 1: 2
+size of process 2: 1
+size of process 3: 6
+size of process 4: 4
+
+FIRST FIT MEMORY ALLOCATION
+
+Processno       Allocated block Allocated size  Fragment in that block
+1               1               2               0
+2               2               1               0
+3               3               6               0
+4               4               4               0
+
+--------------------------------
+Process exited after 42.18 seconds with return value 0
+Press any key to continue . . .
