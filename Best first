@@ -1,0 +1,15 @@
+Enter no of Blocks.
+3
+Enter the 0st Block size:2
+Enter the 1st Block size:21
+Enter the 2st Block size:16
+Enter no of Process.
+2
+Enter the size of 0st Process:21
+Enter the size of 1st Process:16
+The Process 0 allocated to 21
+The Process 1 allocated to 16
+
+--------------------------------
+Process exited after 34.55 seconds with return value 2
+Press any key to continue . . .
