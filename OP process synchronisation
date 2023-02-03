@@ -1,0 +1,17 @@
+Thread1 trying to acquire lock
+Thread1 acquired lock
+Thread2 trying to acquire lock
+Thread1 reads the value of shared variable as 1
+Local updation by Thread1: 2
+Value of shared variable updated by Thread1 is: 2
+Thread1 released the lock
+Thread2 acquired lock
+Thread2 reads the value as 2
+Local updation by Thread2: 1
+Value of shared variable updated by Thread2 is: 1
+Thread2 released the lock
+Final value of shared is 1
+
+--------------------------------
+Process exited after 2.654 seconds with return value 27
+Press any key to continue . . .
