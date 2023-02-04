@@ -1,0 +1,8 @@
+Enter number of process:3
+nEnter Burst Time:np1:20
+p2:10
+p3:60
+nProcesst    Burst Time    tWaiting TimetTurnaround Timenp2tt  10tt    0ttt10np1tt  20tt    10ttt30np3tt  60tt    30ttt90nnAverage Waiting Time=13.333333nAverage Turnaround Time=43.333332n
+--------------------------------
+Process exited after 19.81 seconds with return value 35
+Press any key to continue . . .
