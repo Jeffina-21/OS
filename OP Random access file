@@ -1,0 +1,30 @@
+1] Create a Record
+2] Display Records
+3] Update Records
+4] Exit
+Enter your choice : 2
+
+File not opened for reading
+Enter your choice : 1
+Enter name of employee : jeffina
+Enter emp id : 19211
+
+Enter your choice : 1
+Enter name of employee : omesa
+Enter emp id : 19212
+
+Enter your choice : 3
+File cant be opened
+Enter your choice : 1
+Enter name of employee : arthy
+Enter emp id : 19213
+
+Enter your choice : 3
+File cant be opened
+Enter your choice : 0
+
+Enter your choice : 4
+
+--------------------------------
+Process exited after 100.4 seconds with return value 0
+Press any key to continue . . .
