@@ -1,0 +1,25 @@
+Enter the maximum range of Disk: 199
+Enter the number of queue requests: 7
+Enter the initial head position: 80
+Enter the disk positions to be read(queue): 52
+170
+43
+50
+180
+27
+89
+Disk head moves from position 80 to 89 with Seek 9
+Disk head moves from position 89 to 170 with Seek 81
+Disk head moves from position 170 to 180 with Seek 10
+Disk head moves from position 180 to 199 with Seek 19
+Disk head moves from position 199 to 0 with Seek 199
+Disk head moves from position 0 to 27 with Seek 27
+Disk head moves from position 27 to 43 with Seek 16
+Disk head moves from position 43 to 50 with Seek 7
+Disk head moves from position 50 to 52 with Seek 2
+Total Seek Time= 370
+Average Seek Time= 52.857143
+
+--------------------------------
+Process exited after 48.73 seconds with return value 29
+Press any key to continue . . .
